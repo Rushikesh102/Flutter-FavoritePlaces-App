@@ -2,7 +2,7 @@ import 'package:favorite_places/models/place.dart';
 import 'package:favorite_places/screens/map.dart';
 import 'package:flutter/material.dart';
 
-const apiKey = 'AIzaSyDLcwxUggpPZo8lcbH0TB4Crq5SJjtj4ag';
+const apiKey = '';
 
 class PlaceDetailScreen extends StatelessWidget {
   const PlaceDetailScreen({super.key, required this.place});
