@@ -19,7 +19,7 @@ class LocationInput extends StatefulWidget {
   State<LocationInput> createState() => _LocationInputState();
 }
 
-const apiKey = 'AIzaSyDLcwxUggpPZo8lcbH0TB4Crq5SJjtj4ag';
+const apiKey = '';
 
 class _LocationInputState extends State<LocationInput> {
   PlaceLocation? _pickedLocation;
